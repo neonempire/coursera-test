@@ -2,6 +2,7 @@
 * {
 	box-sizing: border-box;
 	font-family: Helvetica;
+  background-color: gray;
 }
 h1 {
 	margin-bottom:15px;
@@ -15,7 +16,6 @@ p {
 	height: 200px;
 	margin-right: auto;
 	margin-left: auto;
-	font-family: Helvetiva;
 	color: white;
 	padding: 10px;
 }
